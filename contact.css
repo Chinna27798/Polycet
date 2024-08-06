@@ -1,0 +1,156 @@
+* {
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+    scroll-behavior: smooth;
+    text-decoration: none;
+}
+
+/* sectionone */
+
+.sectionone {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+}
+
+.image1 img {
+    height: 100px;
+    width: 100px;
+    margin-right: 200px;
+}
+
+.tr h2 {
+    text-align: center;
+    color: green;
+}
+
+.tr h1 {
+    text-align: center;
+    color: rgb(37, 82, 165);
+}
+
+.image2 img {
+    height: 100px;
+    width: 100px;
+    margin-left: 200px;
+}
+
+/**************************************************************** sectiontwo *************************************************************/
+
+.bar {
+    height: 50px;
+    width: 100%;
+    background-color: rgb(37, 82, 165);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+    cursor: pointer;   
+}
+
+.bar a {
+    border-right: 2px solid #fff;
+    padding: 0px 10px;
+    color: #fff;
+    
+}
+
+.bar a:hover {color: black;}
+
+/* section3 */
+
+.for {
+    padding: 10px;
+    color: rgb(41, 41, 182);
+    font-size: 20px;
+}
+
+.on {
+    height: 570px;
+    width: 1330px;
+    background-color: whitesmoke;
+    margin-top: 50px;
+    margin-left: 110px;
+    border-radius: 20px;
+    overflow: hidden;
+}
+
+.on-inner {
+    width: 100%;
+    height: 30%;
+    background-color: rgb(33, 33, 147);
+}
+
+.off h2 {
+    color: whitesmoke;
+    margin-top: -500px;
+    text-align: center;
+}
+
+.offf {
+    color: black;
+    margin-top: 100px;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.offf h2 {
+    margin-top: 10px;
+}
+
+.of {
+    color: black;
+    margin-top: 40px;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.of h2 {
+    margin-top: 10px;
+}
+
+.dis {
+    background-color: rgb(37, 82, 165);
+    color: white;
+    height: 100px;
+    width: 100%;
+    margin-top: 150px;
+    display: flex;
+    align-items: center;
+}
+
+.dis h3,
+h4 {
+    margin-left: 50px;
+    font-style: oblique;
+}
+
+.design {
+    margin-left: 390px;
+    margin-top: -75px;
+    text-align: center;
+    color: white;
+}
+
+.nic img {
+    height: 80px;
+    margin-left: 1240px;
+    margin-top: -120px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,323 @@
+* {
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+    scroll-behavior: smooth;
+    text-decoration: none;
+}
+
+/* sectionone */
+
+.sectionone {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+}
+
+.image1 img {
+    height: 100px;
+    width: 100px;
+    margin-right: 200px;
+}
+
+.tr h2 {
+    text-align: center;
+    color: green;
+}
+
+.tr h1 {
+    text-align: center;
+    color: rgb(37, 82, 165);
+}
+
+.image2 img {
+    height: 100px;
+    width: 100px;
+    margin-left: 200px;
+}
+
+/**************************************************************** sectiontwo *************************************************************/
+
+.bar {
+    height: 50px;
+    width: 100%;
+    background-color: rgb(37, 82, 165);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+    cursor: pointer;   
+}
+
+.bar a {
+    border-right: 2px solid #fff;
+    padding: 0px 10px;
+    color: #fff;
+    
+}
+
+.bar a:hover {color: black;}
+
+/* section3 */
+
+.for {
+    padding: 10px;
+    color: rgb(41, 41, 182);
+    font-size: 20px;
+}
+
+/* section4 */
+
+.polytech {
+    height: 45px;
+    width: 100%;
+    background-color: rgb(37, 82, 165);
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+
+.polytech h3 {
+    margin-top: 15px;
+}
+
+.des {
+    background-color: rgb(37, 82, 165);
+    color: rgb(142, 142, 234);
+    display: flex;
+    justify-content: center;
+}
+
+.lor {
+    background-color: rgb(37, 82, 165);
+    color: white;
+    display: flex;
+    justify-content: center;
+    height: 140px;
+    width: 100%;
+}
+
+.lor h4 {
+    margin-top: 22px;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
+.box1 {
+    background-color: whitesmoke;
+    height: 230px;
+    width: 370px;
+    border: 3px solid;
+    margin-top: -40px;
+    margin-left: 20px;
+    border-radius: 30px;
+    border-color: rgb(37, 82, 165);
+}
+
+.dow {
+    color: white;
+    background-color: green;
+    height: 25px;
+    width: 300px;
+    margin-left: 35px;
+    margin-top: 25px;
+    border-radius: 20px;
+}
+
+.dow h3 {
+    margin-left: 20px;
+}
+
+.num {
+    margin-left: 50px;
+    margin-top: 20px;
+    color: rgb(37, 82, 165);
+    
+}
+
+.box2 {
+    background-color: whitesmoke;
+    height: 230px;
+    width: 670px;
+    border: 3px solid;
+    margin-top: -230px;
+    margin-left: 430px;
+    border-radius: 30px;
+    border-color: rgb(37, 82, 165);
+}
+
+.imp {
+    color: white;
+    background-color: green;
+    height: 25px;
+    width: 595px;
+    margin-left: 35px;
+    margin-top: 25px;
+    border-radius: 20px;
+}
+
+.imp h3 {
+    margin-left: 20px;
+}
+
+.nume {
+    margin-left: 50px;
+    margin-top: 20px;
+    color: rgb(37, 82, 165);
+}
+
+.box3 {
+    background-color: whitesmoke;
+    height: 230px;
+    width: 370px;
+    border: 3px solid;
+    margin-top: -230px;
+    margin-left: 1140px;
+    border-radius: 30px;
+    border-color: rgb(37, 82, 165);
+}
+
+.not {
+    color: white;
+    background-color: green;
+    height: 25px;
+    width: 300px;
+    margin-left: 35px;
+    margin-top: 25px;
+    border-radius: 20px;
+}
+
+.not h3 {
+    margin-left: 20px;
+}
+
+.numer marquee {
+    margin-left: 50px;
+    margin-top: 20px;
+    color: rgb(37, 82, 165);
+}
+
+.box4 {
+    height: 220px;
+    width: 420px;
+    background-color: whitesmoke;
+    border: 3px solid;
+    border-radius: 30px;
+    border-color: rgb(37, 82, 165);
+    margin-top: 20px;
+    margin-left: 100px;
+}
+
+.mod {
+    color: white;
+    background-color: green;
+    height: 25px;
+    width: 340px;
+    margin-left: 35px;
+    margin-top: 25px;
+    border-radius: 20px;
+}
+
+.mod h3 {
+    margin-left: 20px;
+}
+
+.number {
+    margin-left: 50px;
+    margin-top: 20px;
+    color: rgb(37, 82, 165);
+}
+
+.box5 {
+    height: 220px;
+    width: 420px;
+    background-color: whitesmoke;
+    border: 3px solid;
+    border-radius: 30px;
+    border-color: rgb(37, 82, 165);
+    margin-top: -220px;
+    margin-left: 550px;
+}
+
+.step {
+    color: white;
+    background-color: green;
+    height: 25px;
+    width: 340px;
+    margin-left: 35px;
+    margin-top: 25px;
+    border-radius: 20px;
+}
+
+.step h3 {
+    margin-left: 20px;
+}
+
+.numbers {
+    margin-left: 50px;
+    margin-top: 20px;
+    color: rgb(37, 82, 165);
+}
+
+.box6 {
+    height: 220px;
+    width: 420px;
+    background-color: whitesmoke;
+    border: 3px solid;
+    border-radius: 30px;
+    border-color: rgb(37, 82, 165);
+    margin-top: -220px;
+    margin-left: 1000px;
+}
+
+.con {
+    color: white;
+    background-color: green;
+    height: 25px;
+    width: 340px;
+    margin-left: 35px;
+    margin-top: 25px;
+    border-radius: 20px;
+}
+
+.con h3 {
+    margin-left: 20px;
+}
+
+.nums {
+    margin-left: 50px;
+    margin-top: 20px;
+    color: rgb(37, 82, 165);
+}
+
+.dis {
+    background-color: rgb(37, 82, 165);
+    color: white;
+    height: 100px;
+    width: 100%;
+    margin-top: 50px;
+    display: flex;
+    align-items: center;
+}
+
+.dis h3,
+h4 {
+    margin-left: 50px;
+    font-style: oblique;
+}
+
+.design {
+    margin-left: 390px;
+    margin-top: -75px;
+    text-align: center;
+    color: white;
+}
+
+.nic img {
+    height: 80px;
+    margin-left: 1240px;
+    margin-top: -120px;
+
+}
